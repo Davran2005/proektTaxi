@@ -1,5 +1,7 @@
 package classes;
 
+import enums.TaxiType;
+
 import java.time.LocalDate;
 
 public class Taxi {
